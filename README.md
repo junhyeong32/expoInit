@@ -1,1 +1,1 @@
-# practice_native_app
+# expoInit
